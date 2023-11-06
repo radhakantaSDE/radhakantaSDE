@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Radhakanta Ghosh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Radhakanta Ghosh, Senior Software Engineer (Pationiate about learning & Teaching).
+
+- Having extensive knowledge on below tech-stack
+- Development -> Ds & Algo, Problem Solving, Java, SpringBoot, Reactive Programming, Kafka, Redis,
+- Architecture -> MVC, Microservices, Distributed System, 
+- Monitoring -> 
+- UI -> JavaScript, ReactJs, CSS, HTML
 
