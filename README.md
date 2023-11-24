@@ -9,4 +9,5 @@
 - UI ->            ReactJs, JavaScript, CSS, HTML, etc.
 
 
-Exploring :   ->  Spark with java to findout continious leader board for a live game
+
+- New Exploring :   ->  Spark with java to findout continious leader board for a live game
