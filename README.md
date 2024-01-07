@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Radhakanta Ghosh, Senior Software Engineer (Pationiate about learning & Teaching).
+- 👋 Hi, I’m Radhakanta Ghosh, Senior Software Engineer (Pationiate about Learning & Teaching).
 
 - Having extensive knowledge on below tech-stack with excllent debugging skills
-- Development ->   Ds & Algo, Problem Solving, LLD (Low Level Design), HLD (High Level Design), Java, GoLang, SpringBoot, REST Api, Reactive Programming, Kafka, Redis, etc.
-- Database    ->   MySql, Oracle, MongoDB, Cosmos, Cassandra, etc.
-- Architecture ->  MVC, Microservices, Distributed System, Event Diven, etc.
-- DevOps ->        Oracle Cloud Architecture, Azure, CI/CD (Jenkin, Github)
+- Development ->
+  - Data Structure & Algorithm
+  - Problem Solving 
+  - System Design LLD (Low Level Design)HLD (High Level Design)
+  - Java-20
+  - GoLang
+  - SpringBoot (Plain, Reactive Programming)
+  - REST API
+  - Kafka
+  - Redis, etc.
+- Database    ->
+  - SQL : MySql, Oracle
+  - NoSql : MongoDB, Cosmos, Cassandra
+- Architecture ->
+  - MVC, Microservices, Distributed System, Event Diven, etc.
+- DevOps ->        Oracle Cloud Architecture, Azure, Docker, Kubernetes, CI/CD (Jenkin, Github)
 - Monitoring ->    Splunk, Grafana, ELK Stack, etc.
 - UI ->            ReactJs, JavaScript, CSS, HTML, etc.
 
