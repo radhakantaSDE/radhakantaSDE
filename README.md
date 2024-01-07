@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Radhakanta Ghosh, Senior Software Engineer (Pationiate about Learning & Teaching).
+- 👋 Hi, I’m Radhakanta Ghosh, Senior Software Engineer (Pationiate about Learning & Teaching)
 
 - Having extensive knowledge on below tech-stack with excllent debugging skills
 - Development ->
