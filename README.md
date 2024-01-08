@@ -3,7 +3,7 @@
 - Having extensive knowledge on below tech-stack with excllent debugging skills
 - Development ->
   - Data Structure & Algorithm, Problem Solving
-  - System Design LLD (Low Level Design)HLD (High Level Design)
+  - System Design - HLD (High Level Design) - LLD (Low Level Design)
   - Java-20, GoLang
   - SpringBoot (Plain, WebFlux-Reactive Programming), REST API
   - Kafka
