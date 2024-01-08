@@ -12,7 +12,7 @@
   - SQL : MySql, Oracle
   - NoSql : MongoDB, Cosmos, Cassandra
 - Architecture ->  MVC, Microservices, Distributed System, Event Diven, etc.
-- DevOps ->        Oracle Cloud Architecture, Azure, Docker, Kubernetes, CI/CD (Jenkin, Github)
+- DevOps ->        Oracle Cloud Infrastructure, Azure, Docker, Kubernetes, CI/CD (Jenkin, Github)
 - Monitoring ->    Splunk, Grafana, ELK Stack, etc.
 - UI ->            ReactJs(Redux, Generic component), JavaScript, CSS, HTML, etc.
 
