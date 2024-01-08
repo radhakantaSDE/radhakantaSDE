@@ -5,7 +5,7 @@
   - Data Structure & Algorithm, Problem Solving
   - System Design LLD (Low Level Design)HLD (High Level Design)
   - Java-20, GoLang
-  - SpringBoot (Plain, Reactive Programming), REST API
+  - SpringBoot (Plain, WebFlux-Reactive Programming), REST API
   - Kafka
   - Redis, etc.
 - Database    ->
